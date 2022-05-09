@@ -5,6 +5,8 @@
 
 https://www.youtube.com/watch?v=oUdENE7ljjw&t=392s
 
+https://www.journaldev.com/2389/java-8-features-with-examples
+
 
 stream: https://www.baeldung.com/java-8-streams-introduction
 
