@@ -3,6 +3,8 @@
 # 1. java8 features (functional, lamda, function interface, async, （超级大重点9）
 
 
+https://www.youtube.com/watch?v=oUdENE7ljjw&t=392s
+
 
 stream: https://www.baeldung.com/java-8-streams-introduction
 
