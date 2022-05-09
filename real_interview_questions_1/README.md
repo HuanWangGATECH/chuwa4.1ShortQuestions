@@ -3,6 +3,10 @@
 # 1. java8 features (functional, lamda, function interface, async, （超级大重点9）
 
 
+
+重点： lambda， stream， optional， reference method
+
+
 https://www.youtube.com/watch?v=oUdENE7ljjw&t=392s
 
 https://www.journaldev.com/2389/java-8-features-with-examples
